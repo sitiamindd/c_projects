@@ -1,4 +1,6 @@
-/** Created by sitiamindd **/
+/** Created by sitiamindd
+This file is calculate the tommorow day/date given by the inputs of months and date. 
+**/
 
 #include <stdio.h>
 
